@@ -1,0 +1,6 @@
+baseURL = "https://ubuntuasahi.org/"
+languageCode = "en-us"
+title = "Ubuntu Asahi"
+relativeURLS = true
+[params]
+  subtitle = "Ubuntu images for Apple hardware"
