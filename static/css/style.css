@@ -56,7 +56,7 @@ h2 { margin-top:0; }
 #hero img { margin-top:2em; }
 footer { height:100%; }
 footer .inner { padding-top:2em; }
-footer p { font-size:0.8em; line-height:1.2em; }
+footer p { font-size:0.8em; }
 footer p, footer a { color:var(--cool-grey); }
 footer li { margin-right:0.5em; }
 footer img { height:1em; }
