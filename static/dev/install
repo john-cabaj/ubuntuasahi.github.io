@@ -11,7 +11,7 @@ if true; then
 
     export VERSION_FLAG=https://cdn.asahilinux.org/installer/latest
     export INSTALLER_BASE=https://cdn.asahilinux.org/installer
-    export INSTALLER_DATA=https://ubuntuasahi.org/dev_installer_data.json
+    export INSTALLER_DATA=https://ubuntuasahi.org/dev/installer_data.json
     export REPO_BASE=https://files.tobhe.de/ubuntu
 
     #TMP="$(mktemp -d)"
